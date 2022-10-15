@@ -10,9 +10,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Masum Raja 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="400"/>
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 
 # 💫 About Me:
@@ -24,7 +25,9 @@
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me mr.razamasum@gmail.com<br>
 
-<hr />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
@@ -34,8 +37,12 @@
 </p>
 <br />
 
-<hr />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
@@ -78,12 +85,10 @@
 
 <br/>
 <br/>
-
-
-<hr />
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
@@ -103,11 +108,20 @@
     <a href="https://github.com/masum-raja/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=masum-raja&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="masum" /></a>
     </p>                                                                 
 
+<br/>
 
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-faiz}/count.svg" /></p> 
+<br></div>
+
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/masum-raja/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/masum-raja/blob/main/Geometric%20White.gif" />
+</p>
+<br>
 
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
