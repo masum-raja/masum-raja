@@ -22,7 +22,7 @@
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1BEH4IFOnIJ1E7qfflGLsixYksbFI87ct/view?usp=sharing)<br>
 <br>💻 Know more about me [Portfilio](https://masum-raja.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/masum-raja?tab=repositories)<br>
-<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
+<br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript, MonggoDB, Hapi.js<br>
 <br>📫 How to reach me mr.razamasum@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
