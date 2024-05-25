@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">A passionate full stack web developer from India </h3>
+<h3 align="center">A Passionate FullStack Developer +1 year experience from India </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -17,8 +17,9 @@
 
 
 # 💫 About Me:
-🔭 I’m currently preparing for placements!.<br>
-<br>🌱 I’m currently learning MERN Stack.<br>
+<br>😎Interested in contributing expertise in web, unity and blockchain development</br>
+<br>🚀 I love building and creating things, and I'm always looking for ways to innovate and improve.</br>
+<br>👯 I hope someday collaborate with on **Innovative Projects**</br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1BEH4IFOnIJ1E7qfflGLsixYksbFI87ct/view?usp=sharing)<br>
 <br>💻 Know more about me [Portfilio](https://masum-raja.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/masum-raja?tab=repositories)<br>
