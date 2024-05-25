@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">A Passionate FullStack Developer +1 year experience from India </h3>
+<h3 align="center">A Passionate FullStack Developer +1 year experience</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
